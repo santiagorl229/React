@@ -2,8 +2,8 @@
 //Un fragmento es un agrupador de elementos html que evita la posibilidad de usar div. Se puede usar la etiqueta <Fragment></Fragment>
 //Importando el Fragment o quitar el import y fragment y usar unicamente las etiquetas <></>
 
-/*props es un objeto que permite tener una comunicacion entre componentes del componete padre con el componente hijo ejemplo en el main: <React.StrictMode> es el padre de
-//HelloWorldApp y FirstApp*/
+/*props---> FirstApp = ({title, subTitle})--> es un objeto que permite tener una comunicacion entre componentes del componete padre con el componente hijo ejemplo en el main: <React.StrictMode> es el padre de
+//HelloWorldApp y FirstApp  ok - Vamos aqui*/
 
 
 
