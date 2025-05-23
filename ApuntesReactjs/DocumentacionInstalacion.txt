@@ -1,0 +1,32 @@
+*https://gist.github.com/Klerith/4a4abfd88a88b2d1f16efd95fea41362 --> Instalacion
+*https://gist.github.com/Klerith/b0111f52ba16451d095f38d4c995605b --> CodigoCortoHtml
+*https://babeljs.io/ ---> permite tomar ciertas características de JavaScript en navegadores modernos donde todavía no es compatible algunas funcionalidades y lo vuelve compatible
+ejemplo de babel: 
+const suma = `1+1 = ${1+1}`;
+const respApi = {
+  //personajes: ['Goku', 'Vegeta']
+};
+console.log(respApi.personajes?.length)
+
+
+*https://create-react-app.dev/
+*npx create-react-app intro-javascript ---> Crear proyecto de react
+*https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+*https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring
+*https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f --> arreglo creado profe
+*Documentación array find: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+
+*https://developer.mozilla.org/es/docs/Web/API/Fetch_API
+*https://developers.giphy.com/
+	https://api.giphy.com/v1/gifs/random?api_key=osw5tdlU3TGpLRBZPJFZGmxPjBcRCwlU
+
+*https://developer.mozilla.org/es/
+*https://github.com/Klerith/react-intro-javascript --> Codigo fuente de JavaScript de react
+
+
+*Vamos a crear un proyecto de react con vite comando: 
+	1*npm create vite@latest nombre-de-tu-proyecto
+	         cd counter-app
+ 	         npm install
+ 		 npm run dev
+	2*También se puede crear la aplicación de react con el comando: npx create-react-app counter-app
