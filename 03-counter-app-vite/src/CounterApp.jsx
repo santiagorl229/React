@@ -7,6 +7,7 @@ export const CounterApp = ({value}) =>{
         //console.log(event);
         //setCounter(counter +1 );
         setCounter((c) => c+1);
+        //coment test
     }
     const  handleSubstract = () => setCounter(counter - 1);
     const  handleReset = () => setCounter(value);
