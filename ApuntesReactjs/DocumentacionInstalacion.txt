@@ -32,5 +32,7 @@ console.log(respApi.personajes?.length)
 	2*También se puede crear la aplicación de react con el comando: npx create-react-app counter-app
 
 *https://github.com/Klerith/react-vite-counter-app/tree/fin-seccion-4   --> Codigo fuente Seccion 4
+* https://jestjs.io/
+* https://nodejs.org/docs/latest/api/modules.html#enabling.
 
 
