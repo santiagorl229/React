@@ -34,5 +34,7 @@ console.log(respApi.personajes?.length)
 *https://github.com/Klerith/react-vite-counter-app/tree/fin-seccion-4   --> Codigo fuente Seccion 4
 * https://jestjs.io/
 * https://nodejs.org/docs/latest/api/modules.html#enabling.
+* npm install --save-dev babel-jest @babel/core @babel/preset-env  ---> instalar para pruebas unitarias y luego
+      -----> ir a la pagina de jest e instalar babel y su configuracion paso a paso
 
 
